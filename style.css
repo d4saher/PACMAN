@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+}
+
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid #000;
+}
+
+#pacman {
+    background-color: grey;
+}
+
+/* Agrega tus estilos aquí */
